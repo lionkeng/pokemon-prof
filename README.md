@@ -1,6 +1,6 @@
-# node-typescript-template
+# pokemon-prof
 
-This is a bare minimum template for create a nodeJS project with typescript, nodeJS 18.
+This is a nodeJS, Typescript app for investigating openAI's APIs.
 
 ## getting started
 
